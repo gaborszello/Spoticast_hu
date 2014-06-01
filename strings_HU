@@ -23,10 +23,10 @@
     <string name="title_autoreconnect">Automatikus újracsatlakozás</string>
     <string name="summary_autoconnect">Automatikus újracsatlakozás engedélyezése</string>
     <string name="title_general">Általános</string>
-    <string name="label_or">- vagy -</string>
+    <string name="label_or">- Vagy -</string>
     <string name="alert_spotify_settings_title">Spotify beállítások</string>
     <string name="alert_spotify_settings_message">Engedélyezned kell az \"Eszköz közvetítési állapota\" opciót a Spotify beállításainál és újra kell indítanod az készüléked a Spoticast használata előtt, ha ezt korábban nem engedélyezted!</string>
-    <string name="status_login_success">Sikeres bejelentkezés</string>
+    <string name="status_login_success">Sikeres bejelentkezés.</string>
     <string name="status_disconnected">Leválasztva…</string>
     <string name="status_connecting">Kapcsolódás…</string>
     <string name="loading_status_text">Betöltés…</string>
@@ -44,11 +44,3 @@
     <string name="summary_savepassword">Spotify jelszó mentésének engedélyezése</string>
     <string name="title_notificationbar">Értesitési sáv</string>
     <string name="summary_notificationbar">Spoticast értesitési sávjának megjelenítése</string>
-    <string name="spotify_not_installed">A Spotify nincs telepítve…</string>
-    <string name="message_donation_failure">A támogatás sikertelen volt.</string>
-    <string name="donate_title">Shut up and\ntake my money!</string>
-    <string name="donate_description">Támogatni a PayPal vagy a Google Play Áruház segítségével tudsz, a kívánt összeg kiválasztásával. A támogatás összege dollárban (USD) értendő és alkalmazáson belüli fizetéssel történik. A támogatás nincs korlátozva, annyiszor adományozhatsz ahányszor szeretnél.\nKöszönjük a támogatást!</string>
-    <string name="title_donation">Támogatás letiltása</string>
-    <string name="summary_donation">Az összes támogatással kapcsolatos felhasználói felületi elemek eltávolítása (újraindítást igényel)</string>
-    <string name="title_activity_donate">Támogatás</string>
-    <string name="donate_subtitle">Támogatás Google Playen keresztül</string>
